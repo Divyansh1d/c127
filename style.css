@@ -1,0 +1,21 @@
+.body{
+  background-color: rgb(52, 55, 90);
+}
+#score{
+    margin-left: 50px;
+    font-size: 20px;
+    color:yellow
+}
+#timer{
+  margin-right: 50px;
+  font-size: 20px;
+  color:yellow;
+  float: right;
+}
+.style{
+  color: yellow;
+}
+#heading{
+  font-size: 70px;
+  color: cyan;
+}
